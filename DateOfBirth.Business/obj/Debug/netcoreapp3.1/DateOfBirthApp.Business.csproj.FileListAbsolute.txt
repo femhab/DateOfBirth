@@ -1,0 +1,14 @@
+C:\Users\Habeebullah\source\repos\DateOfBirthApp\DateOfBirth.Business\bin\Debug\netcoreapp3.1\DateOfBirthApp.Business.deps.json
+C:\Users\Habeebullah\source\repos\DateOfBirthApp\DateOfBirth.Business\bin\Debug\netcoreapp3.1\DateOfBirthApp.Business.dll
+C:\Users\Habeebullah\source\repos\DateOfBirthApp\DateOfBirth.Business\bin\Debug\netcoreapp3.1\DateOfBirthApp.Business.pdb
+C:\Users\Habeebullah\source\repos\DateOfBirthApp\DateOfBirth.Business\obj\Debug\netcoreapp3.1\DateOfBirthApp.Business.csprojAssemblyReference.cache
+C:\Users\Habeebullah\source\repos\DateOfBirthApp\DateOfBirth.Business\obj\Debug\netcoreapp3.1\DateOfBirthApp.Business.AssemblyInfoInputs.cache
+C:\Users\Habeebullah\source\repos\DateOfBirthApp\DateOfBirth.Business\obj\Debug\netcoreapp3.1\DateOfBirthApp.Business.AssemblyInfo.cs
+C:\Users\Habeebullah\source\repos\DateOfBirthApp\DateOfBirth.Business\obj\Debug\netcoreapp3.1\DateOfBirthApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\Habeebullah\source\repos\DateOfBirthApp\DateOfBirth.Business\obj\Debug\netcoreapp3.1\DateOfBirthApp.Business.dll
+C:\Users\Habeebullah\source\repos\DateOfBirthApp\DateOfBirth.Business\obj\Debug\netcoreapp3.1\DateOfBirthApp.Business.pdb
+C:\Users\Habeebullah\source\repos\DateOfBirthApp\DateOfBirth.Business\bin\Debug\netcoreapp3.1\DateOfBirthApp.Data.dll
+C:\Users\Habeebullah\source\repos\DateOfBirthApp\DateOfBirth.Business\bin\Debug\netcoreapp3.1\DateOfBirthApp.ViewModel.dll
+C:\Users\Habeebullah\source\repos\DateOfBirthApp\DateOfBirth.Business\bin\Debug\netcoreapp3.1\DateOfBirthApp.Data.pdb
+C:\Users\Habeebullah\source\repos\DateOfBirthApp\DateOfBirth.Business\bin\Debug\netcoreapp3.1\DateOfBirthApp.ViewModel.pdb
+C:\Users\Habeebullah\source\repos\DateOfBirthApp\DateOfBirth.Business\obj\Debug\netcoreapp3.1\DateOfBirthApp.Business.csproj.CopyComplete
